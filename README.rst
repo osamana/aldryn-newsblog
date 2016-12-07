@@ -24,6 +24,10 @@ development of django CMS and Aldryn applications.
 Installation & Updates
 ======================
 
+first install these before pip install aldryn-newsblog
+sudo apt-get install libxml2-dev libxslt1-dev
+sudo pip install lxml
+
 Please head over to our `documentation`_ for all the details on how to install,
 configure and use Aldryn News & Blog.
 
